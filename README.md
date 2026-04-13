@@ -1,5 +1,5 @@
 <a href="https://pixelpundit.dev">
-  <img src="./assets/banner.svg" alt="Saransh Seth — Senior Frontend Engineer" width="100%" />
+  <img src="./assets/banner.svg" alt="Saransh Seth — Senior Software Engineer" width="100%" />
 </a>
 
 <p align="center">
@@ -26,9 +26,9 @@ Outside work, I run **[Pixel Pundit](https://pixelpundit.dev)** — where retro 
 ### ⚡ What I ship with
 
 **Core** — Vue 3 · TypeScript · SCSS · Vite · Nuxt · Composition API  
-**Side builds** — React Native · Expo · Flutter · Next.js 15 · Supabase  
-**Infra** — n8n · Claude AI · Docker · Tailscale · GitHub Actions  
-**Craft** — BEM · CSS Custom Properties · Design Tokens · WCAG 2.1 AA  
+**Side builds** — React · Next.js 15 · React Native · Expo · Flutter · Supabase · Tailwind · Node.js  
+**Infra** — n8n · Claude AI · Docker · Tailscale · GitHub Actions · Yarn 4  
+**Craft** — BEM · CSS Custom Properties · Design Tokens · WCAG 2.1 AA · Storybook  
 
 </td>
     <td valign="top" width="50%">
@@ -37,6 +37,7 @@ Outside work, I run **[Pixel Pundit](https://pixelpundit.dev)** — where retro 
 
 **[Questlings](https://github.com/saranshseth93/Questlings)** — Tasks that fight back. Pixel RPG task manager.  
 **[SafeSure](https://github.com/saranshseth93/SafeSure)** — Scam shield for Indian communities. Android done.  
+**[EarnWhat](https://github.com/saranshseth93/EarnWhat)** — Financial literacy and earnings tracker.  
 **[Pixel Pundit](https://pixelpundit.dev)** — Freelance studio. Resume, web dev, AI automation.
 
 </td>
