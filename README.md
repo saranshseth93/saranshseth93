@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://pixelpundit.dev"><img src="https://img.shields.io/badge/pixelpundit.dev-F4C430?style=flat&logoColor=black" alt="Website"/></a>&nbsp;&nbsp;
   <a href="https://linkedin.com/in/pixel-pundit"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
-  <a href="mailto:saransh@pixelpundit.dev"><img src="https://img.shields.io/badge/Email-c9d1d9?style=flat&logo=gmail&logoColor=black" alt="Email"/></a>
+  <a href="mailto:contact@pixelpundit.dev"><img src="https://img.shields.io/badge/Email-c9d1d9?style=flat&logo=gmail&logoColor=black" alt="Email"/></a>
 </p>
 
 <br>
