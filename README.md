@@ -47,9 +47,9 @@ Outside work, I run **[Pixel Pundit](https://pixelpundit.dev)** — where retro 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saranshseth93&show_icons=true&hide_border=true&hide_title=true&bg_color=0a0e17&icon_color=2DD4BF&text_color=c9d1d9&ring_color=F4C430&count_private=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=saranshseth93&show_icons=true&hide_border=true&hide_title=true&bg_color=0a0e17&icon_color=2DD4BF&text_color=c9d1d9&ring_color=F4C430" height="160" alt="GitHub Stats" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=saranshseth93&hide_border=true&background=0A0E17&ring=F4C430&fire=F28C28&currStreakLabel=2DD4BF&sideLabels=6e7681&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=3d4450" height="160" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=saranshseth93&hide_border=true&background=0A0E17&ring=F4C430&fire=F28C28&currStreakLabel=2DD4BF&sideLabels=6e7681&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=3d4450" height="160" alt="GitHub Streak" />
 </p>
 
 <br>
