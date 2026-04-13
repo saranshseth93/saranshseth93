@@ -37,7 +37,6 @@ Outside work, I run **[Pixel Pundit](https://pixelpundit.dev)** — where retro 
 
 **[Questlings](https://github.com/saranshseth93/Questlings)** — Tasks that fight back. Pixel RPG task manager.  
 **[SafeSure](https://github.com/saranshseth93/SafeSure)** — Scam shield for Indian communities. Android done.  
-**[Hisaab](https://github.com/saranshseth93/hisaab)** — Roommate expense splitting, Splitwise-style.  
 **[Pixel Pundit](https://pixelpundit.dev)** — Freelance studio. Resume, web dev, AI automation.
 
 </td>
