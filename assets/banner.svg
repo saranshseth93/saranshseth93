@@ -1,0 +1,231 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" width="900" height="320">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&amp;display=swap');
+
+      .bg { fill: #0a0e17; }
+
+      /* Pixel grid dots */
+      .dot { fill: #1a1f2e; }
+      .dot-accent { fill: #1e2538; }
+
+      /* Animated glow dots */
+      .glow-gold { fill: #F4C430; opacity: 0; }
+      .glow-teal { fill: #2DD4BF; opacity: 0; }
+      .glow-pink { fill: #F28C28; opacity: 0; }
+
+      .glow-gold { animation: pulse-gold 4s ease-in-out infinite; }
+      .glow-teal { animation: pulse-teal 4s ease-in-out 1.3s infinite; }
+      .glow-pink { animation: pulse-pink 4s ease-in-out 2.6s infinite; }
+
+      @keyframes pulse-gold {
+        0%, 100% { opacity: 0; }
+        50% { opacity: 0.8; }
+      }
+      @keyframes pulse-teal {
+        0%, 100% { opacity: 0; }
+        50% { opacity: 0.7; }
+      }
+      @keyframes pulse-pink {
+        0%, 100% { opacity: 0; }
+        50% { opacity: 0.6; }
+      }
+
+      /* Name text */
+      .name {
+        font-family: 'Press Start 2P', monospace;
+        font-size: 28px;
+        fill: #F4C430;
+        opacity: 0;
+        animation: fade-in 1s ease-out 0.3s forwards;
+      }
+
+      /* Subtitle */
+      .subtitle {
+        font-family: 'Press Start 2P', monospace;
+        font-size: 11px;
+        fill: #c9d1d9;
+        opacity: 0;
+        animation: fade-in 1s ease-out 0.8s forwards;
+      }
+
+      /* Separator line */
+      .sep-line {
+        stroke: #F4C430;
+        stroke-width: 1;
+        opacity: 0.3;
+        stroke-dasharray: 600;
+        stroke-dashoffset: 600;
+        animation: draw-line 2s ease-out 0.5s forwards;
+      }
+
+      /* Bottom tags */
+      .tag {
+        font-family: 'Press Start 2P', monospace;
+        font-size: 8px;
+        fill: #6e7681;
+        opacity: 0;
+        animation: fade-in 1s ease-out 1.2s forwards;
+      }
+      .tag-highlight {
+        font-family: 'Press Start 2P', monospace;
+        font-size: 8px;
+        fill: #2DD4BF;
+        opacity: 0;
+        animation: fade-in 1s ease-out 1.2s forwards;
+      }
+
+      /* Pixel art character - scanline effect */
+      .scanline {
+        fill: none;
+        stroke: #F4C430;
+        stroke-width: 0.5;
+        opacity: 0.03;
+        animation: scan 3s linear infinite;
+      }
+
+      @keyframes fade-in {
+        to { opacity: 1; }
+      }
+      @keyframes draw-line {
+        to { stroke-dashoffset: 0; }
+      }
+      @keyframes scan {
+        0% { transform: translateY(-320px); }
+        100% { transform: translateY(320px); }
+      }
+
+      /* Cursor blink */
+      .cursor {
+        fill: #F4C430;
+        opacity: 1;
+        animation: blink 1s step-end infinite;
+      }
+      @keyframes blink {
+        50% { opacity: 0; }
+      }
+
+      /* Pixel art joystick */
+      .pixel { fill: #2DD4BF; }
+      .pixel-dark { fill: #1a8a7a; }
+      .pixel-gold { fill: #F4C430; }
+      .pixel-shadow { fill: #0d1520; }
+
+      .joystick-group {
+        opacity: 0;
+        animation: fade-in 1.5s ease-out 0.5s forwards;
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect class="bg" width="900" height="320" rx="12"/>
+
+  <!-- Pixel grid pattern -->
+  <g opacity="0.4">
+    <!-- Row pattern repeated - subtle grid dots -->
+    <g>
+      <!-- Sparse pixel grid for texture -->
+      <rect class="dot" x="30" y="30" width="4" height="4" rx="1"/>
+      <rect class="dot" x="60" y="30" width="4" height="4" rx="1"/>
+      <rect class="dot" x="90" y="30" width="4" height="4" rx="1"/>
+      <rect class="dot" x="120" y="30" width="4" height="4" rx="1"/>
+      <rect class="dot" x="150" y="30" width="4" height="4" rx="1"/>
+      <rect class="dot-accent" x="180" y="30" width="4" height="4" rx="1"/>
+      <rect class="dot" x="210" y="30" width="4" height="4" rx="1"/>
+
+      <rect class="dot" x="30" y="60" width="4" height="4" rx="1"/>
+      <rect class="dot-accent" x="60" y="60" width="4" height="4" rx="1"/>
+      <rect class="dot" x="90" y="60" width="4" height="4" rx="1"/>
+      <rect class="dot" x="150" y="60" width="4" height="4" rx="1"/>
+      <rect class="dot" x="210" y="60" width="4" height="4" rx="1"/>
+
+      <rect class="dot" x="30" y="90" width="4" height="4" rx="1"/>
+      <rect class="dot" x="90" y="90" width="4" height="4" rx="1"/>
+      <rect class="dot" x="120" y="90" width="4" height="4" rx="1"/>
+      <rect class="dot-accent" x="180" y="90" width="4" height="4" rx="1"/>
+
+      <!-- Right side dots -->
+      <rect class="dot" x="720" y="40" width="4" height="4" rx="1"/>
+      <rect class="dot" x="750" y="40" width="4" height="4" rx="1"/>
+      <rect class="dot-accent" x="780" y="40" width="4" height="4" rx="1"/>
+      <rect class="dot" x="810" y="40" width="4" height="4" rx="1"/>
+      <rect class="dot" x="840" y="40" width="4" height="4" rx="1"/>
+
+      <rect class="dot" x="720" y="70" width="4" height="4" rx="1"/>
+      <rect class="dot" x="780" y="70" width="4" height="4" rx="1"/>
+      <rect class="dot-accent" x="840" y="70" width="4" height="4" rx="1"/>
+
+      <rect class="dot" x="750" y="100" width="4" height="4" rx="1"/>
+      <rect class="dot" x="810" y="100" width="4" height="4" rx="1"/>
+
+      <!-- Bottom dots -->
+      <rect class="dot" x="30" y="250" width="4" height="4" rx="1"/>
+      <rect class="dot" x="60" y="250" width="4" height="4" rx="1"/>
+      <rect class="dot-accent" x="120" y="250" width="4" height="4" rx="1"/>
+      <rect class="dot" x="180" y="280" width="4" height="4" rx="1"/>
+      <rect class="dot" x="750" y="260" width="4" height="4" rx="1"/>
+      <rect class="dot" x="810" y="260" width="4" height="4" rx="1"/>
+      <rect class="dot-accent" x="840" y="280" width="4" height="4" rx="1"/>
+    </g>
+  </g>
+
+  <!-- Animated glow dots scattered -->
+  <circle class="glow-gold" cx="85" cy="45" r="15"/>
+  <circle class="glow-teal" cx="800" cy="85" r="20"/>
+  <circle class="glow-pink" cx="750" cy="250" r="12"/>
+  <circle class="glow-gold" cx="150" cy="270" r="10"/>
+  <circle class="glow-teal" cx="450" cy="30" r="8"/>
+
+  <!-- Scanline overlay -->
+  <rect class="scanline" x="0" y="0" width="900" height="2"/>
+
+  <!-- Pixel art joystick (right side) -->
+  <g class="joystick-group" transform="translate(740, 120)">
+    <!-- Joystick base -->
+    <rect class="pixel-shadow" x="10" y="80" width="80" height="12" rx="2"/>
+    <rect class="pixel-dark" x="14" y="76" width="72" height="12" rx="2"/>
+    <rect class="pixel" x="18" y="72" width="64" height="12" rx="2"/>
+
+    <!-- Joystick stick -->
+    <rect class="pixel-dark" x="44" y="24" width="12" height="52"/>
+    <rect class="pixel" x="46" y="20" width="8" height="52"/>
+
+    <!-- Joystick ball -->
+    <rect class="pixel-gold" x="36" y="8" width="28" height="20" rx="4"/>
+    <rect class="pixel-gold" x="40" y="4" width="20" height="28" rx="4"/>
+
+    <!-- Buttons -->
+    <rect class="pixel-gold" x="100" y="50" width="14" height="14" rx="7"/>
+    <rect class="pixel" x="120" y="36" width="14" height="14" rx="7"/>
+  </g>
+
+  <!-- Separator line -->
+  <line class="sep-line" x1="60" y1="175" x2="660" y2="175"/>
+
+  <!-- Main text -->
+  <text class="name" x="60" y="130">SARANSH SETH</text>
+  <rect class="cursor" x="395" y="112" width="16" height="24" rx="2"/>
+
+  <text class="subtitle" x="60" y="155">SENIOR FRONTEND ENGINEER</text>
+
+  <!-- Bottom tags -->
+  <text class="tag" x="60" y="210">DESIGN SYSTEMS</text>
+  <text class="tag-highlight" x="230" y="210">·</text>
+  <text class="tag" x="250" y="210">VUE 3 + TYPESCRIPT</text>
+  <text class="tag-highlight" x="460" y="210">·</text>
+  <text class="tag" x="480" y="210">AI WORKFLOWS</text>
+
+  <text class="tag" x="60" y="235">INTREPID TRAVEL</text>
+  <text class="tag-highlight" x="240" y="235">·</text>
+  <text class="tag" x="260" y="235">MELBOURNE, AU</text>
+  <text class="tag-highlight" x="420" y="235">·</text>
+  <text class="tag-highlight" x="440" y="235">PIXELPUNDIT.DEV</text>
+
+  <!-- Corner accents -->
+  <rect fill="#F4C430" x="12" y="12" width="24" height="3" rx="1" opacity="0.6"/>
+  <rect fill="#F4C430" x="12" y="12" width="3" height="24" rx="1" opacity="0.6"/>
+
+  <rect fill="#2DD4BF" x="864" y="305" width="24" height="3" rx="1" opacity="0.6"/>
+  <rect fill="#2DD4BF" x="885" y="293" width="3" height="24" rx="1" opacity="0.6"/>
+</svg>
