@@ -5,7 +5,8 @@
 <p align="center">
   <a href="https://pixelpundit.dev"><img src="https://img.shields.io/badge/pixelpundit.dev-F4C430?style=flat&logoColor=black" alt="Website"/></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/saranshseth/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
-  <a href="mailto:contact@pixelpundit.dev"><img src="https://img.shields.io/badge/Email-c9d1d9?style=flat&logo=gmail&logoColor=black" alt="Email"/></a>
+  <a href="mailto:contact@pixelpundit.dev"><img src="https://img.shields.io/badge/Email-c9d1d9?style=flat&logo=gmail&logoColor=black" alt="Email"/></a>&nbsp;&nbsp;
+  <a href="https://contra.com/saransh_seth"><img src="https://img.shields.io/badge/Contra-Available%20for%20hire-F28C28?style=flat&logoColor=white" alt="Contra — Available for hire"/></a>
 </p>
 
 <br>
