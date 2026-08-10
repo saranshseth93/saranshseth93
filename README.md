@@ -6,7 +6,7 @@
   <a href="https://pixelpundit.dev"><img src="https://img.shields.io/badge/pixelpundit.dev-F4C430?style=flat&logoColor=black" alt="Website"/></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/saranshseth/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
   <a href="mailto:contact@pixelpundit.dev"><img src="https://img.shields.io/badge/Email-c9d1d9?style=flat&logo=gmail&logoColor=black" alt="Email"/></a>&nbsp;&nbsp;
-  <a href="https://contra.com/saransh_seth"><img src="https://img.shields.io/badge/Contra-Available%20for%20hire-F28C28?style=flat&logoColor=white" alt="Contra — Available for hire"/></a>
+  <a href="https://contra.com/saransh_seth"><img src="https://img.shields.io/badge/Contra-Available%20for%20hire-F28C28?style=flat&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbC1ydWxlPSJldmVub2RkIiBmaWxsPSIjZmZmIj48cGF0aCBkPSJNMTIsMS4yIFExMy4yLDEwLjggMjIuOCwxMiBRMTMuMiwxMy4yIDEyLDIyLjggUTEwLjgsMTMuMiAxLjIsMTIgUTEwLjgsMTAuOCAxMiwxLjIgWiBNMTEuMiwwIEwxMi44LDAgTDEyLjgsMTEuMiBMMjQsMTEuMiBMMjQsMTIuOCBMMTIuOCwxMi44IEwxMi44LDI0IEwxMS4yLDI0IEwxMS4yLDEyLjggTDAsMTIuOCBMMCwxMS4yIEwxMS4yLDExLjIgWiIvPjwvc3ZnPg%3D%3D" alt="Contra — Available for hire"/></a>
 </p>
 
 <br>
@@ -54,7 +54,7 @@ Landing pages, marketing sites, and front-end audits.
 
 **→ Hire me on [Contra](https://contra.com/saransh_seth) (0% fees, keep 100% of the rate)**
 
-[![Contra](https://img.shields.io/badge/Contra-Available%20for%20hire-F28C28?style=for-the-badge&logo=contra&logoColor=white)](https://contra.com/saransh_seth)
+[![Contra](https://img.shields.io/badge/Contra-Available%20for%20hire-F28C28?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbC1ydWxlPSJldmVub2RkIiBmaWxsPSIjZmZmIj48cGF0aCBkPSJNMTIsMS4yIFExMy4yLDEwLjggMjIuOCwxMiBRMTMuMiwxMy4yIDEyLDIyLjggUTEwLjgsMTMuMiAxLjIsMTIgUTEwLjgsMTAuOCAxMiwxLjIgWiBNMTEuMiwwIEwxMi44LDAgTDEyLjgsMTEuMiBMMjQsMTEuMiBMMjQsMTIuOCBMMTIuOCwxMi44IEwxMi44LDI0IEwxMS4yLDI0IEwxMS4yLDEyLjggTDAsMTIuOCBMMCwxMS4yIEwxMS4yLDExLjIgWiIvPjwvc3ZnPg%3D%3D)](https://contra.com/saransh_seth)
 
 <br>
 
