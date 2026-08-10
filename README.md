@@ -46,6 +46,17 @@ Outside work, I run **[Pixel Pundit](https://pixelpundit.dev)** — where retro 
 
 <br>
 
+### 🦉 Available for freelance & white-label front-end
+
+Senior React / Next.js / TypeScript — I build under your brand and stay invisible.
+Landing pages, marketing sites, and front-end audits.
+
+**→ Hire me on [Contra](https://contra.com/saransh_seth) (0% fees, keep 100% of the rate)**
+
+[![Contra](https://img.shields.io/badge/Contra-Available%20for%20hire-F28C28?style=for-the-badge&logo=contra&logoColor=white)](https://contra.com/saransh_seth)
+
+<br>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=saranshseth93&color=F4C430&style=flat&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
