@@ -53,6 +53,8 @@ Landing pages, marketing sites, and front-end audits.
 
 **→ Hire me on [Contra](https://contra.com/saransh_seth) (0% fees, keep 100% of the rate)**
 
+[![Contra](https://img.shields.io/badge/Contra-Available%20for%20hire-F28C28?style=for-the-badge&logo=contra&logoColor=white)](https://contra.com/saransh_seth)
+
 <br>
 
 <p align="center">
